@@ -1,0 +1,2 @@
+# 不要把任何文件当文本处理，避免 CRLF/BOM 改写 plist 与 kext
+* -text
